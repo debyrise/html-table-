@@ -11,3 +11,9 @@ body{
     align-items: center;
     text-align: center;
 }
+.heros1{
+    height: 300px;
+    width: 100%;
+    position: relative;
+    background-color: blue;
+}
